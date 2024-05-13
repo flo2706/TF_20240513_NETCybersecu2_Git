@@ -4,3 +4,8 @@ floriane.dussart@gmail.com
 3, rue Célestin Hastir
 5150 Floreffe
 0491/76.22.18
+
+hobbies:
+running
+piano
+musique
